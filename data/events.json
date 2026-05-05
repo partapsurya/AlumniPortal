@@ -1,0 +1,37 @@
+[
+  {
+    "id": "e1",
+    "title": "Global Leaders Summit 2024",
+    "date": "Nov 14, 2024",
+    "location": "London • Royal Hall",
+    "description": "A high-level gathering of alumni leading global institutions and industries.",
+    "category": "SUMMIT",
+    "capacity": 200,
+    "attendees": [
+      "abc@gmail.com"
+    ],
+    "image": "/events/summit.png"
+  },
+  {
+    "id": "e2",
+    "title": "The Winter Gala & Giving Night",
+    "date": "Dec 02, 2024",
+    "location": "New York • Met Museum",
+    "description": "Celebrate the year's achievements and support our scholarship foundation.",
+    "category": "GALA",
+    "capacity": 500,
+    "attendees": [],
+    "image": "/events/gala.png"
+  },
+  {
+    "id": "e3",
+    "title": "Venture Pitch: Alumni Edition",
+    "date": "Jan 15, 2025",
+    "location": "San Francisco • Hub 71",
+    "description": "Watch the top 10 alumni-led startups pitch to world-class investors.",
+    "category": "PITCH",
+    "capacity": 150,
+    "attendees": [],
+    "image": "/events/pitch.png"
+  }
+]

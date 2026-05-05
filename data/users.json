@@ -1,0 +1,91 @@
+[
+  {
+    "firstName": "Alexander",
+    "lastName": "Vogel",
+    "email": "alex.v@exec.com",
+    "graduationYear": 2005,
+    "workDomain": "Finance",
+    "location": "Zurich, Switzerland",
+    "interests": [
+      "Private Equity",
+      "Asset Management",
+      "Sailing"
+    ],
+    "bio": "Managing Director at a leading Swiss investment firm. Alumni Board Member.",
+    "profileImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=256&h=256&auto=format&fit=crop",
+    "password": "$2b$10$rjbzha/bmgKVs9G0pPkPFOtcPXrmyMcZZjh1dQCtMy7gSLRjo9RHu"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Patel",
+    "email": "sofia.p@tech.io",
+    "graduationYear": 2018,
+    "workDomain": "Technology",
+    "location": "San Francisco, CA",
+    "interests": [
+      "Cloud Computing",
+      "Machine Learning",
+      "Yoga"
+    ],
+    "bio": "Lead Architect at a major cloud provider. Passionate about scalable infrastructure.",
+    "profileImage": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=256&h=256&auto=format&fit=crop",
+    "password": "$2b$10$rjbzha/bmgKVs9G0pPkPFOtcPXrmyMcZZjh1dQCtMy7gSLRjo9RHu"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Brooks",
+    "email": "j.brooks@design.com",
+    "graduationYear": 2021,
+    "workDomain": "Arts & Media",
+    "location": "Brooklyn, NY",
+    "interests": [
+      "Digital Storytelling",
+      "UX Research",
+      "Photography"
+    ],
+    "bio": "Creative lead exploring the intersection of digital media and urban anthropology.",
+    "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=256&h=256&auto=format&fit=crop",
+    "password": "$2b$10$rjbzha/bmgKVs9G0pPkPFOtcPXrmyMcZZjh1dQCtMy7gSLRjo9RHu"
+  },
+  {
+    "firstName": "Dr. Li",
+    "lastName": "Wei",
+    "email": "li.wei@health.edu",
+    "graduationYear": 2010,
+    "workDomain": "Healthcare",
+    "location": "Singapore",
+    "interests": [
+      "Telemedicine",
+      "Public Health Policy",
+      "Tennis"
+    ],
+    "bio": "Senior consultant at Singapore General Hospital. Researcher in health informatics.",
+    "profileImage": "https://images.unsplash.com/photo-1559839734-2b71f153678b?q=80&w=256&h=256&auto=format&fit=crop",
+    "password": "$2b$10$rjbzha/bmgKVs9G0pPkPFOtcPXrmyMcZZjh1dQCtMy7gSLRjo9RHu"
+  },
+  {
+    "firstName": "Catherine",
+    "lastName": "Middleton",
+    "email": "c.middleton@legal.uk",
+    "graduationYear": 1998,
+    "workDomain": "Legal",
+    "location": "London, UK",
+    "interests": [
+      "International Law",
+      "Human Rights",
+      "Equestrian"
+    ],
+    "bio": "Partner at a Magic Circle law firm. 25 years of experience in cross-border litigation.",
+    "profileImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=256&h=256&auto=format&fit=crop",
+    "password": "$2b$10$rjbzha/bmgKVs9G0pPkPFOtcPXrmyMcZZjh1dQCtMy7gSLRjo9RHu"
+  },
+  {
+    "_id": "1778005014475",
+    "firstName": "a",
+    "lastName": "bc",
+    "email": "abc@gmail.com",
+    "graduationYear": "2027",
+    "password": "$2b$10$Wc62zRxlGnX/J/HtX4SFn.f9tkl5qgswEen47kDM9zvhog.5X5Oue",
+    "createdAt": "2026-05-05T18:16:54.475Z"
+  }
+]
